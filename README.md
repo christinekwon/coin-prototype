@@ -1,3 +1,3 @@
 # Coin Animation Prototype
 
-[View Prototype](https://github.com/facebook/create-react-app).
+[View Prototype](https://coin-prototype.vercel.app/).
